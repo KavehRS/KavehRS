@@ -1,11 +1,9 @@
-### Hi there 👋
-
 ### Hi there 👋, I am Kaveh RezaeiShiraz
 ###### *Software Engineer*
-
+<!--
 A Software Engineer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.Js, AWS and Drone. 
 
-<!--
+
 * Frontend: HTML, CSS, SASS, Vanilla JavaScript, Pug
 * Backend: Java, NodeJS, Docker
 * Cloud Computing: AWS
