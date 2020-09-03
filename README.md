@@ -10,7 +10,7 @@ A Software Engineer with industry experience building web application used by mi
 * CI/CD: Drone, Jenkins 
 
 -->
-
+A data engineer & security enthusiast, working as a backend developer & freelance developer.
 
 ### You can also find me on
 
