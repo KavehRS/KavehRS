@@ -10,7 +10,10 @@ A Software Engineer with industry experience building web application used by mi
 * CI/CD: Drone, Jenkins 
 
 -->
-A data engineer & security enthusiast, working as a backend developer & freelance developer.
+A data engineer & security enthusiast, working as a freelance backend developer.
+* Frontend: HTML, CSS, JS
+* Backend: Python, Ruby, Docker
+
 
 ### You can also find me on
 
