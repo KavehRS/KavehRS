@@ -1,15 +1,6 @@
 ### Hi there 👋, I am Kaveh RezaeiShiraz
 ###### *Software Engineer*
-<!--
-A Software Engineer with industry experience building web application used by millions of people. Specializing in JavaScript technologies and AWS. Professional experience working with Node.Js, AWS and Drone. 
 
-
-* Frontend: HTML, CSS, SASS, Vanilla JavaScript, Pug
-* Backend: Java, NodeJS, Docker
-* Cloud Computing: AWS
-* CI/CD: Drone, Jenkins 
-
--->
 A Software Engineer, data engineer & security enthusiast, working as a freelance backend developer.
 * Frontend: HTML, CSS, JS
 * Backend: Python, Ruby, Docker
@@ -25,6 +16,7 @@ A Software Engineer, data engineer & security enthusiast, working as a freelance
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kavehrs&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kavehrs=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
