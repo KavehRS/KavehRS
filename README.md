@@ -19,6 +19,7 @@ A Software Engineer, data engineer & security enthusiast, working as a freelance
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavehrs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavehrs&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
