@@ -2,8 +2,8 @@
 ###### *Software Engineer*
 
 A Software Engineer, data engineer & security enthusiast, working as a freelance backend developer.
-* Frontend: HTML, CSS, JS
-* Backend: Python, Ruby, Docker
+* Frontend: HTML, JS.
+* Backend: Python.
 
 
 ### You can also find me on
