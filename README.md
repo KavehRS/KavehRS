@@ -14,9 +14,10 @@ A Software Engineer, data engineer & security enthusiast, working as a freelance
 
 ### My GitHub stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kavehrs&show_icons=true)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kavehrs&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavehrs&langs_count=8)](https://github.com/kavehrs)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kavehrs)](https://github.com/kavehrs)
+
 
 
 
