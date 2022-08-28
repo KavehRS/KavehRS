@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Kaveh Rezaei
 ###### *Software Engineer*
-A Software Engineer & security enthusiast, working as a freelance backend developer.
+A Software Engineer & security enthusiast, working as a SysAdmin.
 
 ### You can also find me on
 
