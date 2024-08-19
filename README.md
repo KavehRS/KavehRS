@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Kaveh Rezaei
 ###### *Software Engineer*
-A Software Engineer , working as a SysAdmin.
+A Software Engineer.
 
 ### You can also find me on
 
